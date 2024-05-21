@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from .models import Student
 from django.http import HttpResponse
-
+gcgvhghj
 # Create your views here.
 
 def home(request):
